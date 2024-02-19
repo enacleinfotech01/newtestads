@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484755315681",
+    "project_id": "live-video-call-f0865",
+    "storage_bucket": "live-video-call-f0865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484755315681:android:b7d56ff53e5b6e8d3b10a0",
+        "android_client_info": {
+          "package_name": "livevideocall.randomchat.call.chat.newcall.newgirlvideocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFgWXSBXcVf8EnuXTFO9nVAuiHggHNWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

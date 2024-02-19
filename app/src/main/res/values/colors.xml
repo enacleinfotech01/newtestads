@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_color">#3E4B97</color>
+
+    <color name="main_color">#0035a7</color>
+    <color name="actionbarcolor">#557FDA</color>
+
+
+    <color name="blue_color">#04353A</color>
+    <color name="green_color">#009d2c</color>
+    <color name="red_color">#CC0000</color>
+    <color name="red_light_color">#A50000</color>
+    <color name="orange_color">#FF9800</color>
+
+
+    <color name="fix_black">#FF000000</color>
+    <color name="fix_white">#FFFFFFFF</color>
+    <color name="new_app_color">#EF5291</color>
+</resources>
